@@ -447,6 +447,10 @@ article h1.title > a {
     width: 180px;
 }
 
+.slides > article img.shadow {
+    box-shadow: .1em .1em 0.3em #222;
+}
+
 .slides > article > h2.title {
     position: absolute;
     top: 35%;
@@ -786,4 +790,3 @@ article h2, article h3 {
 hr {
     margin: 1em 0;
 }
-
