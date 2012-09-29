@@ -205,7 +205,7 @@ table { border-collapse: collapse; border-spacing: 0; }
   font-family: 'Holtwood One SC';
   font-style: normal;
   font-weight: normal;
-  src: local("Holtwood One SC"), local("HoltwoodOneSC"), url("../fonts/HoltwoodOneSC.ttc"), url("http://themes.googleusercontent.com/static/fonts/holtwoodonesc/v2/sToOq3cIxbfnhbEkgYNuBbFxFljtrsr2f1jsZCF5R04.ttf") format("truetype");
+  src: local("Holtwood One SC"), local("HoltwoodOneSC"), url("../fonts/HoltwoodOneSC.ttf"), url("http://themes.googleusercontent.com/static/fonts/holtwoodonesc/v2/sToOq3cIxbfnhbEkgYNuBbFxFljtrsr2f1jsZCF5R04.ttf") format("truetype");
 }
 
 html {
